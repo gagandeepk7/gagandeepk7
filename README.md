@@ -20,8 +20,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=gagandeepk7&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/gagandeepk7?label=Followers&style=flat-square&logo=github&color=70a5fd" alt="GitHub Followers">
+
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgagandeepk7&query=%24.public_repos&label=Public%20Repos&logo=github&style=flat-square&color=70a5fd" alt="Public Repositories">
 
 </div>
